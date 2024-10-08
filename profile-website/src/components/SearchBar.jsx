@@ -12,4 +12,4 @@ const SearchBar = () => {
     );
 };
 
-export default SearchBar;
+export default SearchBar;//i hate tis wkljdlksjfo okok
