@@ -12,4 +12,4 @@ const SearchBar = () => {
     );
 };
 
-export default SearchBar;//hgjcjdkcsd kcosi
+export default SearchBar;//h
